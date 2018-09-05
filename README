@@ -1,0 +1,7 @@
+# DirectInput
+
+VS2017 (15.8), C++17
+WDK 10.0.17134
+SDK 10.0.17137
+
+Simulate SendInput with ClassService.
